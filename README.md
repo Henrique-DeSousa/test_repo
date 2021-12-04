@@ -1,7 +1,2 @@
 # test_repo
-ddsa
-dsa
-dsa
-
-dsa
-dsa
+Repositorio de testes para o projeto de ES.
